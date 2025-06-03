@@ -41,5 +41,5 @@ Chronic liver diseases, particularly cirrhosis, remain a leading cause of morbid
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/liver-cirrhosis-mortality-prediction.git
-   cd liver-cirrhosis-mortality-prediction
+gh repo clone RaDoN135/-Predicting-Mortality-in-Liver-Cirrhosis-Patients-Using-Machine-Learning 
+cd liver-cirrhosis-mortality-prediction
