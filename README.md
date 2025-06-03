@@ -6,7 +6,7 @@ This project evaluates the effectiveness of three machine learning models — **
 
 ## 🔬 Clinical Motivation
 
-Chronic liver diseases, particularly cirrhosis, remain a leading cause of morbidity and mortality worldwide. Early identification of at-risk patients enables timely interventions and resource optimization. This project aims to explore the role of ML models in supporting such clinical decisions.
+Chronic liver diseases, particularly cirrhosis, remain a leading cause of morbidity and mortality worldwide. Early identification of at-risk patients enables timely interventions and resource optimization. This project explores the role of machine learning in supporting such clinical decisions.
 
 ## 📁 Project Structure
 
@@ -19,13 +19,13 @@ Chronic liver diseases, particularly cirrhosis, remain a leading cause of morbid
 
 ## 📊 Key Techniques
 
-- Outlier filtering and data cleaning
-- Feature engineering and categorical encoding
-- Imbalanced classification with **SMOTE**
+- Data cleaning and outlier filtering
+- Feature engineering and encoding
+- Handling class imbalance using **SMOTE**
 - ML models: Logistic Regression, Random Forest, XGBoost
-- Evaluation using **ROC AUC**, **Precision-Recall Curves**, and **Confusion Matrices**
+- Evaluation via **ROC AUC**, **Precision-Recall Curves**, and **Confusion Matrix**
 
-## 🛠 Technologies
+## 🛠 Technologies Used
 
 - Python 3.x
 - Jupyter Notebooks
@@ -37,3 +37,12 @@ Chronic liver diseases, particularly cirrhosis, remain a leading cause of morbid
   - `imbalanced-learn`
   - `matplotlib`
   - `seaborn`
+
+## 🚀 How to Run
+
+You can clone and run the project using the following commands:
+
+```bash
+git clone https://github.com/RaDoN135/Predicting-Mortality-in-Liver-Cirrhosis-Patients-Using-Machine-Learning.git
+cd Predicting-Mortality-in-Liver-Cirrhosis-Patients-Using-Machine-Learning
+pip install -r requirements.txt
