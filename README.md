@@ -35,11 +35,12 @@ Chronic liver diseases, particularly cirrhosis, remain a leading cause of morbid
   - `scikit-learn`
   - `xgboost`
   - `imbalanced-learn`
-  - `matplotlib`, `seaborn`
+  - `matplotlib`
+  - `seaborn`
 
 ## 🚀 How to Run
 
 1. Clone the repository:
    ```bash
-gh repo clone RaDoN135/-Predicting-Mortality-in-Liver-Cirrhosis-Patients-Using-Machine-Learning 
-cd liver-cirrhosis-mortality-prediction
+   gh repo clone RaDoN135/Predicting-Mortality-in-Liver-Cirrhosis-Patients-Using-Machine-Learning
+   cd Predicting-Mortality-in-Liver-Cirrhosis-Patients-Using-Machine-Learning
